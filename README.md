@@ -6,4 +6,4 @@ linux: lua b41firearms2csv/main.lua \<Path to steam library where PZ installed\>
 
 Result: https://docs.google.com/spreadsheets/d/1W-UHvDUzhr55iPQRHsM4AxxVmcw-OJ-eZB7BY8DY44M
 
-This parser was made for [Firearms B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2256623447) mod but with little effort can be modified for any other mod.
+This parser was made for the [Firearms B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2256623447) mod but with little effort can be modified for any other mod.
